@@ -5,5 +5,7 @@ This project shows the statistics about all the competitors on the olympic games
 
 
 
+
 *this project is done in Spyder*
+
 *the database is an Excell file*
